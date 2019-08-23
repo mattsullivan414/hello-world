@@ -1,2 +1,3 @@
 # hello-world
-a short description
+
+I'm a mechanical engineer at Halliburton (writing this from work currently).
